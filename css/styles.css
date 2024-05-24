@@ -175,7 +175,7 @@ background-color: #404bbf;
     gap: 24px;
 }
 .benefit-menu-item {
-    flex-basis: calc((100% - 72px) / 4);
+    flex-basis: calc((100%-72px)/4);
     margin-right: 0;
 }
 
@@ -217,7 +217,7 @@ background-color: #404bbf;
 }
 .team-list-item {
     background-color: #ffffff;
-    width: calc((100% - 72) / 4);
+    width: calc((100%-72)/4);
     border-radius: 0px 0px 4px 4px;
     box-shadow: 0px 2px 1px 0px #2e2f4214,
     0px 1px 1px 0px #2e2f4229,
