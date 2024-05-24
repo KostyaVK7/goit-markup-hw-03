@@ -3,7 +3,28 @@ body {
     background-color: #FFFFFF;
     color: #434455;
 }
-
+ol, ul {
+	list-style: none;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+a {
+	text-decoration: none;
+}
 .container {
     width: 1158px;
     margin: 0 auto;
