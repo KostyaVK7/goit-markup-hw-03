@@ -3,6 +3,9 @@ body {
     background-color: #FFFFFF;
     color: #434455;
 }
+img {
+    display: block ;
+}
 ol, ul {
 	list-style: none;
 }
@@ -21,6 +24,7 @@ blockquote,
 dl,
 dd {
   margin: 0;
+  padding: 0;
 }
 a {
 	text-decoration: none;
