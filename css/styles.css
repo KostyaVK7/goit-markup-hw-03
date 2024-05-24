@@ -198,7 +198,7 @@ background-color: #404bbf;
     gap: 24px;
 }
 .benefit-menu-item {
-    width: calc((100%-72px)/4);
+    width: calc((100% - 72px)/4);
     margin-right: 0;
 }
 
